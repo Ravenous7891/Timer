@@ -1,0 +1,1 @@
+Please click the 'Releases' button on the right to download the latest version. I have not included any advertisements in the current version, so please rest assured. This software is clean and runs entirely on your local device rather than on the server. The latest version has fixed many bugs, and we also welcome your suggestions to make our software better.
