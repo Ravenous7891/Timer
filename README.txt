@@ -1,2 +1,3 @@
 请点击右侧的“Releases”按钮下载最新版本。当前版本中我未植入任何广告，请放心使用。本软件绝对纯净，完全在您的本地设备上运行，而非在我们的服务器上运行。最新版已修复多个bug，同时也欢迎您提出建议，帮助我们不断完善这款软件。
 Please click the 'Releases' button on the right to download the latest version. I have not included any advertisements in the current version, so please rest assured. This software is clean and runs entirely on your local device rather than on the server. The latest version has fixed many bugs, and we also welcome your suggestions to make our software better.
+If the English version cannot save files, please manually add these two files in your directory, thank you.(Timer_music.json,Timer_settings.json)
